@@ -19,7 +19,7 @@ $ npm run start
 $ npm run start:dev
 ```
 
-## Run
+## Run for checking the output
 
 ```bash
 # curl request to get user details (email,name etc)
